@@ -26,4 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayaggithub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhayaggithub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayaggithub&show_icons=true&locale=en&theme=tokyonight" alt="abhayaggithub" /></p>
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhayaggithub&theme=tokyonight)
+<p align="left">
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhayaggithub&theme=tokyonight">
+</p>
